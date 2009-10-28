@@ -1,0 +1,6 @@
+Revision history for Perl extension Waft::JSON.
+
+0.01  Wed Feb 25 00:51:21 2009
+	- original version; created by h2xs 1.23 with options
+		-AX -n Waft::JSON
+
