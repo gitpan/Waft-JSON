@@ -1,6 +1,9 @@
 Revision history for Perl extension Waft::JSON.
 
-0.01  Wed Feb 25 00:51:21 2009
+0.02  Thu Oct 29 21:02:00 2009
+	- changed POD and Makefile.PL
+
+0.01  Wed Oct 28 22:48:00 2009
 	- original version; created by h2xs 1.23 with options
 		-AX -n Waft::JSON
 

@@ -8,7 +8,7 @@ BEGIN { eval { require warnings } ? 'warnings'->import : ( $^W = 1 ) }
 
 use Waft 0.9907 ();
 
-$VERSION = '0.01';
+$VERSION = '0.02';
 $VERSION = eval $VERSION;
 
 sub compile_template {
@@ -124,7 +124,7 @@ Waft::JS や Waft::jQuery と組み合わせて使用すると、Ajax 開発の�
 
 =head1 AUTHOR
 
-Shingo Murata, E<lt>singo@silk.plala.or.jpE<gt>
+Shingo Murata, E<lt>murata@cpan.orgE<gt>
 
 =head1 COPYRIGHT AND LICENSE
 
