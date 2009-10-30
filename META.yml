@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Waft-JSON
-version:            0.02
+version:            0.03
 abstract:           JSON extensions for Waft
 author:
     - Shingo Murata <murata@cpan.org>
@@ -11,6 +11,7 @@ configure_requires:
 build_requires:
     ExtUtils::MakeMaker:  0
 requires:
+    JSON:  2.15
     Waft:  0.9907
 no_index:
     directory:

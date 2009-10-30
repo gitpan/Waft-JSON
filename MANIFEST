@@ -1,8 +1,8 @@
 Changes
+lib/Waft/JSON.pm
 Makefile.PL
 MANIFEST
 README
 t/compile_template.t
 t/convert_json.t
-lib/Waft/JSON.pm
 META.yml                                 Module meta-data (added by MakeMaker)
